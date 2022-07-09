@@ -1,5 +1,5 @@
 # Chatty_realtime-chat
-A realtime chat web app built with ReactJS, NodeJS, CSS and Socket.io
+A realtime chat web app built with ReactJS, NodeJS, CSS and Socket.io. It was used for bidirectional data transfer through virtual client and server interaction setups.
 
 ## Project Status
 
