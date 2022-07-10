@@ -5,8 +5,8 @@ import {
   Route,
   Routes,
 } from "react-router-dom"; // to pass props as query parameters
-import Login from "./components/Login";
-import Chat from "./components/Chat";
+import Login from "./components/Login/Login";
+import Chat from "./components/Chat/Chat";
 
 const App = () => (
   <Router>
